@@ -1,4 +1,4 @@
-<h1 style="color: blue">Второе задание</h1>
+<h1 style="color: red">Второе задание</h1>
 <?php
 
 echo <<<php
